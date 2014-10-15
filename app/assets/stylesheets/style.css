@@ -79,7 +79,7 @@ img.img-radius {
   line-height: 20px;
   font-weight: bold;
   display: inline-block;
-  background: url(../img/marker.gif) right 7px no-repeat;
+  background: url(../assets/marker.gif) right 7px no-repeat;
   padding-right: 10px;
   margin-top: 20px;
   text-decoration: none;
@@ -152,7 +152,7 @@ ul.list-2 {
 }
 ul.list li {
   padding: 5px 0 5px 13px;
-  background: url(../img/marker.gif) 0 12px no-repeat;
+  background: url(../assets/marker.gif) 0 12px no-repeat;
   font-size: 12px;
   line-height: 20px;
 }
@@ -165,7 +165,7 @@ ul.list li a:hover {
 }
 ul.list-2 li {
   padding: 5px 0 5px 13px;
-  background: url(../img/marker.gif) 0 12px no-repeat;
+  background: url(../assets/marker.gif) 0 12px no-repeat;
   font-size: 12px;
   line-height: 20px;
 }
@@ -213,7 +213,7 @@ ul.list-2 li a:hover {
   width: 37px;
   height: 37px;
   overflow: hidden;
-  background: url(../img/totop.png) 0 0 no-repeat;
+  background: url(../assets/totop.png) 0 0 no-repeat;
   position: fixed;
   margin-right: -640px !important;
   right: 50%;
@@ -230,12 +230,12 @@ ul.list-2 li a:hover {
 /*------ header ------- */
 header {
   padding: 30px 0 41px 0;
-  background: url(../img/header.jpg) 0 0 repeat-x #1b1a1d;
+  background: url(../assets/header.jpg) 0 0 repeat-x #1b1a1d;
   position: relative;
   z-index: 999;
 }
 .header-block {
-  background: url(../img/header-block.jpg) 0 0 repeat-x #1b1b1c;
+  background: url(../assets/header-block.jpg) 0 0 repeat-x #1b1b1c;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
@@ -276,7 +276,7 @@ h1.brand span {
   padding: 6px 45px 10px 0;
   color: #ffffff;
   line-height: 22px;
-  background: url(../img/line-1.png) right 0 repeat-y;
+  background: url(../assets/line-1.png) right 0 repeat-y;
 }
 .contacts span,
 .contacts a {
@@ -287,7 +287,7 @@ h1.brand span {
   color: #fff;
 }
 /* search-form */.navbar-form {
-  background: url(../img/form-search.jpg) 0 0 repeat-x #1c1c1c;
+  background: url(../assets/form-search.jpg) 0 0 repeat-x #1c1c1c;
   border-bottom: #515152 1px solid;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -314,11 +314,11 @@ h1.brand span {
   display: inline-block;
   width: 40px;
   height: 33px;
-  background: url(../img/search.png) 0 0 no-repeat;
+  background: url(../assets/search.png) 0 0 no-repeat;
   float: right;
 }
 .navbar-form a:hover {
-  background: url(../img/search.png) right 0 no-repeat;
+  background: url(../assets/search.png) right 0 no-repeat;
 }
 /**/
 /* navbar */
@@ -328,7 +328,7 @@ h1.brand span {
 .navbar_ .navbar-inner_ {
   padding: 18px 0px 19px 45px;
   margin: 0;
-  background: url(../img/navbar.png) 0 0 repeat-x;
+  background: url(../assets/navbar.png) 0 0 repeat-x;
   border: none;
   min-height: inherit;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
@@ -348,7 +348,7 @@ h1.brand span {
   zoom: 1;
 }
 .nav-collapse_ .nav > li {
-  background: url(../img/line-1.png) 0 0 repeat-y;
+  background: url(../assets/line-1.png) 0 0 repeat-y;
   padding: 0 18px 0 18px;
   line-height: 17px;
 }
@@ -356,7 +356,7 @@ h1.brand span {
   display: inline-block;
   width: 17px;
   height: 15px;
-  background: url(../img/home.png) 0 0 no-repeat;
+  background: url(../assets/home.png) 0 0 no-repeat;
 }
 .nav-collapse_ .nav > li.li-first {
   background: none;
@@ -398,7 +398,7 @@ h1.brand span {
 .nav-collapse_ .nav > li.sub-menu > a:before {
   content: " ";
   position: absolute;
-  background: url('../img/li-marker.png') left top no-repeat;
+  background: url('../assets/li-marker.png') left top no-repeat;
   width: 7px;
   height: 5px;
   right: 50%;
@@ -421,7 +421,7 @@ h1.brand span {
 .nav-collapse_ .nav > li li.sub-menu > a:before {
   content: " ";
   position: absolute;
-  background: url('../img/li-marker.png') left top no-repeat;
+  background: url('../assets/li-marker.png') left top no-repeat;
   width: 7px;
   height: 5px;
   right: 10px;
@@ -529,13 +529,13 @@ h1.brand span {
 /*--- header end ------*/
 /*------ content ------- */
 #content {
-  background: url(../img/bg-content.jpg) 0 0 repeat #1f1e21;
+  background: url(../assets/bg-content.jpg) 0 0 repeat #1f1e21;
 }
 .main-content {
   padding-bottom: 46px;
 }
 .sub-content {
-  background: url(../img/sub-content.jpg) 0 0 repeat-x;
+  background: url(../assets/sub-content.jpg) 0 0 repeat-x;
   padding-bottom: 46px;
 }
 /* thumbnails */
@@ -546,7 +546,7 @@ h1.brand span {
   margin-bottom: 0px;
 }
 .thumbnails .thumbnail {
-  background: url(../img/thumbnail-bg.png) 0 0 repeat;
+  background: url(../assets/thumbnail-bg.png) 0 0 repeat;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
@@ -559,7 +559,7 @@ h1.brand span {
 }
 .thumbnails .thumbnail .caption {
   padding: 27px 0px 23px 21px;
-  background: url(../img/thumbnail-caption.png) 0 0 repeat-x #161618;
+  background: url(../assets/thumbnail-caption.png) 0 0 repeat-x #161618;
   -webkit-border-top-right-radius: 6px;
   -moz-border-radius-topright: 6px;
   border-top-right-radius: 6px;
@@ -574,7 +574,7 @@ h1.brand span {
   margin: -3px 0 0 0;
 }
 .thumbnails .thumbnail:hover .caption {
-  background: url(../img/thumbnail-caption.png) 0 -204px repeat-x #ac283a;
+  background: url(../assets/thumbnail-caption.png) 0 -204px repeat-x #ac283a;
 }
 .thumbnails .thumbnail img {
   float: left;
@@ -791,7 +791,7 @@ address span {
   border-radius: 0;
   box-shadow: none;
   float: left;
-  background: url(../img/form-bg.png) 0 0 repeat;
+  background: url(../assets/form-bg.png) 0 0 repeat;
 }
 .contact-form label {
   min-height: 56px;
@@ -832,7 +832,7 @@ address span {
   border-radius: 0;
   box-shadow: none;
   float: left;
-  background: url(../img/form-bg.png) 0 0 repeat;
+  background: url(../assets/form-bg.png) 0 0 repeat;
 }
 .contact-form input:focus,
 .contact-form textarea:focus {
@@ -917,7 +917,7 @@ address span {
 /*------ footer ------- */
 footer {
   padding: 26px 0 38px 0;
-  background: url(../img/footer.jpg) 0 0 repeat-x;
+  background: url(../assets/footer.jpg) 0 0 repeat-x;
   color: #8e8e8e;
 }
 footer .span8 > a {
@@ -957,7 +957,7 @@ footer .span8 > a:hover {
 /* form newsletter */
 form#newsletter {
   margin: 0;
-  background: url(../img/newsletter-bg.png) 0 0 repeat;
+  background: url(../assets/newsletter-bg.png) 0 0 repeat;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -1328,7 +1328,7 @@ form#newsletter label {
   .nav-collapse_ .nav > li li.sub-menu > a:before {
     content: "";
     position: absolute;
-    background: url(../img/li-marker.png) left top no-repeat;
+    background: url(../assets/li-marker.png) left top no-repeat;
     width: 7px;
     height: 5px;
     right: 10px ;
